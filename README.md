@@ -1,1 +1,4 @@
-# otahinosame.github.io
+# samemo (otahinosame.github.io)
+
+* sample
+* sample
