@@ -53,8 +53,8 @@ Nintendo Switchのゲーム音をヘッドホンからサラウンド再生す�
    	Switch本体のサウンドテスト
 * 遊ぶゲームで確認
    		バスリダイレクト込みでテストするには、任意の場所で低音を鳴らせるゲームがわかりやすい。例えば、
-   			ブレスオブザワイルドのバクダン
-   			スプラトゥーン2のボム
+      			ブレスオブザワイルドのバクダン
+      			スプラトゥーン2のボム
 * 各チャネルの音量を調整する
 
 ### バスリダイレクション
@@ -70,9 +70,9 @@ Razer Tiamat 7.1 V2 x Nintendo Switch でバスリダイレクションを実現
 
 * 接続後、ヘッドホンの各チャンネルのボリュームを再調整する。
 
-![connection.jpeg](D:\GitHub\otahinosame.github.io\switch_surround\connection.jpg)
+![connection.jpg](./connection.jpg)
 
-![sch](D:\GitHub\otahinosame.github.io\switch_surround\sch.jpg)
+![sch.jpg](./sch.jpg)
 
 ### 通話
 
