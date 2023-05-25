@@ -7,7 +7,7 @@ keyboard
 notes
 * [キーボード一覧](/keyboard_list)
 * [キースイッチレビュー](/keyswitch_list)
-* [フォトデュエル解説](/photoduel)
+* [フォトデュエル解説](/photo_duel)
 
 other
 * [Nintendo Switchサラウンド環境の作り方](/switch_surround/)
